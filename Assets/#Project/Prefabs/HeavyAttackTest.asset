@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4704fe8014a7e5419b3744d77a66779, type: 3}
+  m_Name: HeavyAttackTest
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  normalDamage: 4
+  buffedDamage: 8
+  effect: 
+  baseDescription: Deal 4 damage
+  buffedDescription: Deal 4 additional damage
+  attackType: 01000000
+  cardFront: {fileID: 0}
+  cardBack: {fileID: 0}
+  ragePicto: {fileID: 0}
