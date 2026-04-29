@@ -11,17 +11,27 @@ public class Card : ScriptableObject
     public string effect;
     public string baseDescription;
     public string buffedDescription;
+    public string cardName;
 
     public List<AttackType> attackType;
+    public List<RageStatus> rageAim;
+    public List<RageStatus> rageCondition;
 
     public Sprite cardFront;
     public Sprite cardBack;
-    public Sprite ragePicto;
+    public Sprite cardSprite;
 
 
     public enum AttackType
     {
         Light,
         Heavy,
+    }
+
+    public enum RageStatus
+    {
+        Blue,
+        Orange,
+        Red,
     }
 }

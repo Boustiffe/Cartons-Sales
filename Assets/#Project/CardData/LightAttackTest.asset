@@ -10,14 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d4704fe8014a7e5419b3744d77a66779, type: 3}
-  m_Name: HeavyAttackTest
+  m_Name: LightAttackTest
   m_EditorClassIdentifier: Assembly-CSharp::Card
-  normalDamage: 4
-  buffedDamage: 8
+  normalDamage: 2
+  buffedDamage: 4
   effect: 
-  baseDescription: Deal 4 damage
-  buffedDescription: Deal 4 additional damage
-  attackType: 01000000
+  baseDescription: Deal 2 damage
+  buffedDescription: Deal 2 additional damage
+  cardName: Antoattack
+  attackType: 00000000
+  rageAim: 00000000
+  rageCondition: 01000000
   cardFront: {fileID: 0}
   cardBack: {fileID: 0}
-  ragePicto: {fileID: 0}
+  cardSprite: {fileID: 0}
