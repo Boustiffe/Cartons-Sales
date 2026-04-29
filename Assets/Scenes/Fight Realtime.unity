@@ -686,7 +686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1207684088}
   m_Layer: 0
-  m_Name: Block_Checker
+  m_Name: Block_CheckerE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
