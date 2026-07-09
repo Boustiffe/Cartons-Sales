@@ -9,9 +9,25 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 362365111477408726, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
+      propertyPath: m_Size.x
+      value: 1.2076923
+      objectReference: {fileID: 0}
+    - target: {fileID: 362365111477408726, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
+      propertyPath: m_Size.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 362365111477408726, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 2232486188629395191, guid: 52ea73b59ea0d014eb9decdf1d1b89b8, type: 3}
+      objectReference: {fileID: 6323855873460016024, guid: 27dd9d71103742e4c83b61ab42f3817b, type: 3}
+    - target: {fileID: 362365111477408726, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4283803174950728379, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.445
+      objectReference: {fileID: 0}
     - target: {fileID: 4941465720793152871, guid: 04eee28730a36924b8c8438c7a120c5f, type: 3}
       propertyPath: m_Name
       value: Card_VisualTest Variant 1
