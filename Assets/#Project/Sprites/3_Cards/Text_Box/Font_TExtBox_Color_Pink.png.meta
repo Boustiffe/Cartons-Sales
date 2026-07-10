@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a0ac26095296dca428411ef2a0927e19
+guid: ea453c0dafd6d184ca92965f3bee5932
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2125289665490022895
-    second: Font_Color2 1_0
+      213: -6345933490612895302
+    second: Font_TExtBox_Color_Pink_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Font_Color2 1_0
+      name: Font_TExtBox_Color_Pink_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 70
-        height: 100
+        x: 6
+        y: 5
+        width: 58
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe17754c0bb8e7d10800000000000000
-      internalID: 2125289665490022895
+      spriteID: ab183cbcc17bee7a0800000000000000
+      internalID: -6345933490612895302
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Font_Color2 1_0: 2125289665490022895
+      Font_TExtBox_Color_Pink_0: -6345933490612895302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

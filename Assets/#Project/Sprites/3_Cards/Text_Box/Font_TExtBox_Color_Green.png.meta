@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f5e743724fdd7284aadfea8c8ab0dbb7
+guid: 4462e8e8e12bdb547bb08a978f833178
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1327966647318959354
-    second: Font_TExtBox_Color_0
+      213: -8328272430665774764
+    second: Font_TExtBox_Color_Green_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Font_TExtBox_Color_0
+      name: Font_TExtBox_Color_Green_0
       rect:
         serializedVersion: 2
         x: 7
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af4530f31a2ed6210800000000000000
-      internalID: 1327966647318959354
+      spriteID: 459cc7179580c6c80800000000000000
+      internalID: -8328272430665774764
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Font_TExtBox_Color_0: 1327966647318959354
+      Font_TExtBox_Color_Green_0: -8328272430665774764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

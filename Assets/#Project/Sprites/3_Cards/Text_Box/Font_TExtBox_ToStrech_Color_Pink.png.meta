@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a0ac26095296dca428411ef2a0927e19
+guid: 88c05ceb9b0e9d544a295d51cb83500c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2125289665490022895
-    second: Font_Color2 1_0
+      213: 2650366701403980589
+    second: Font_TExtBox_ToStrech_Color_Pink_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Font_Color2 1_0
+      name: Font_TExtBox_ToStrech_Color_Pink_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 70
-        height: 100
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe17754c0bb8e7d10800000000000000
-      internalID: 2125289665490022895
+      spriteID: d2345b1097ef7c420800000000000000
+      internalID: 2650366701403980589
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0ccd5f13bab83cd45838b01bd9e2aca5
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Font_Color2 1_0: 2125289665490022895
+      Font_TExtBox_ToStrech_Color_Pink_0: 2650366701403980589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
