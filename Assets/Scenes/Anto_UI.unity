@@ -330,11 +330,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 88
+      value: 90.6
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -215
+      value: -148.7
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -432,11 +432,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 175
+      value: 177.59999
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -224
+      value: -157.7
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -675,11 +675,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0
+      value: 2.5999959
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -211
+      value: -144.7
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -692,6 +692,27 @@ PrefabInstance:
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1977818023747735306, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"cardFront","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cardBack","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cardSprite","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cardName","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"baseDescription","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"buffedDescription","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"attackPicto","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"rageAimPicto","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"buffedZoneImage","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cardData","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"Card,
+        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cardPrefab","value":{"$content":10,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"originalScale","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"originalRotation","value":{"x":0.0,"y":0.0,"z":0.0,"w":0.0,"$type":"UnityEngine.Quaternion"},"typeHandle":{"Identification":"UnityEngine.Quaternion,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"originalPosition","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"currentState","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"selectScale","value":{"$content":1.1,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"hoveringEffect","value":{"$content":11,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -777,11 +798,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -174
+      value: -171.40001
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -224
+      value: -157.7
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -848,8 +869,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
   _data:
-    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 616511460}
 --- !u!4 &1220750442
 Transform:
   m_ObjectHideFlags: 0
@@ -939,11 +962,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -88
+      value: -85.4
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -216
+      value: -149.7
       objectReference: {fileID: 0}
     - target: {fileID: 1218156649736075648, guid: e9981f40ecd5cba42b5a3045603990dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
